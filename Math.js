@@ -15,3 +15,5 @@ console.log(Math.round(number));
 console.log(Math.min(10, 5, 20));
 console.log(Math.max(10, 5, 20));
 console.log(Math.random());
+
+//fuck off
