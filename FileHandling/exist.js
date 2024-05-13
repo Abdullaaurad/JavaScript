@@ -1,0 +1,8 @@
+const fs = require('fs');
+const filePath = 'FileHandling/hi.txt';
+
+if (fs.existsSync(filePath)) {
+    console.log('File exists.');
+} else {
+    console.log('File does not exist.');
+}

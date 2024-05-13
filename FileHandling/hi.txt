@@ -1,0 +1,5 @@
+Hi my name is Abdulla 
+ I am here as a coordinator for you
+ if you have any questions you may as now before too late 
+ Enjoy your life at UCSC
+This text will be appended to hi.txt.
